@@ -30,7 +30,6 @@ Este é um projeto de portfólio desenvolvido para uma tatuadora. O sistema poss
 - **Firebase** - Plataforma de desenvolvimento
   - Authentication - Sistema de autenticação
   - Firestore - Banco de dados NoSQL
-  - Storage - Armazenamento de imagens
   - Hosting - Hospedagem da aplicação
 
 ## ✨ Funcionalidades
