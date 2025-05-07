@@ -56,36 +56,6 @@ Este é um projeto de portfólio desenvolvido para uma tatuadora. O sistema poss
 - Node.js (versão 18+)
 - npm ou bun
 
-### Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/magic-moon-tattoo.git
-
-# Entre no diretório
-cd magic-moon-tattoo/fire
-
-# Instale as dependências
-npm install
-# ou
-bun install
-
-# Execute o projeto em desenvolvimento
-npm run dev
-# ou
-bun dev
-```
-
-### Build
-
-```bash
-# Para gerar a versão de produção
-npm run build
-
-# Para preview local da versão de produção
-npm run preview
-```
-
 ## 📝 Licença
 
 Este projeto está sob a licença [ISC](https://opensource.org/licenses/ISC).
